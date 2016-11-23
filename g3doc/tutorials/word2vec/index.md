@@ -1,5 +1,6 @@
 # 단어들의 벡터 표현
 
+
 이 튜토리얼에서 [Mikolov et al.](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) 의 word2vec 모델을 살펴본다. 이 모델은 "word embeddings" 라 불리는 단어들의 벡터 표현 학습에 사용된다.
 
 ## 강조점(Highlights)
